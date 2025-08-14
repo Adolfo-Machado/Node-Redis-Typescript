@@ -61,3 +61,4 @@ docker-compose up -d
     ```
 
 Após esses passos, a API estará em execução e pronta para receber requisições. O `nodemon` irá reiniciar o servidor automaticamente sempre que houver uma alteração nos arquivos `.ts`.
+.
